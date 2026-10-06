@@ -147,8 +147,11 @@ See the `LICENSE` file for details.
 # Author
 
 Éric Duhamel  
+OVERSYS
 Sentinel Forecasting Lab  
 France
+eduhamel@oversys.com
+edilia12380@gmail.com
 
 Tutorial:  
 https://sentinel-forecasting.com/RTE_tutorial/
